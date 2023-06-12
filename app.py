@@ -1,5 +1,3 @@
-pip install control
-
 import streamlit as st
 import control as cnt
 import matplotlib.pyplot as plt
